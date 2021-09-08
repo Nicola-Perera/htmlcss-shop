@@ -60,3 +60,18 @@ h1 {
     top: 370px;
     left: 60px;
 }
+
+.heart {
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 20px;
+    right: 0;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 5px;
+    font-size: 16px;
+}
