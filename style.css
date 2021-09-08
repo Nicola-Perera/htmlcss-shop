@@ -10,3 +10,34 @@
     display: table;
     clear: both;
 }
+
+/* debug rules */
+.debug>.content {
+    height: 600px;
+    background-color: aqua;
+}
+
+/* content */
+.content {
+    margin:2% 15%;
+}
+
+.cloth:nth-of-type(3n+2) {
+    margin: 0 2%;
+}
+
+.cloth {
+    width: 32%;
+}
+
+img {
+    width: 100%;
+}
+
+.cloth {
+    float: left;
+}
+
+h1 {
+    font-size: 10px;
+}
