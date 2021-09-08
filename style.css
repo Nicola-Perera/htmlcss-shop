@@ -43,6 +43,7 @@ h1 {
     font-size: 10px;
 }
 
+/* targhette */
 .discount {
     background-color: red;
     width: 50px;
@@ -88,4 +89,15 @@ h4 {
     color: white;
     margin-top: 3px;
     margin-left: 3px;
+}
+
+/* effetti */
+.dress3 {
+    transition: position 0s;
+}
+
+.dress3:active {
+    position: relative;
+    top: 10px;
+    left: 10px;
 }
