@@ -75,3 +75,17 @@ h4 {
     margin-top: 5px;
     font-size: 16px;
 }
+
+.verde {
+    font-size: 16px;
+    color: white;
+    margin-top: 6px;
+    margin-left: 6px;
+}
+
+.sconto {
+    font-size: 20px;
+    color: white;
+    margin-top: 3px;
+    margin-left: 3px;
+}
